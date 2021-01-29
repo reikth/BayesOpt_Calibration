@@ -1,8 +1,8 @@
-u = "reiker" #Scicore user name
-GitDir = "/scicore/home/smith/reiker/GitRepos/om_fitting/" # Local version of the Git repository
-ExperimentDir = "/scicore/home/smith/reiker/Paper_3_Model_Fitting/" #Parent folder to experiments
+u = "" #HPC cluster user name
+GitDir = "" # Local version of the Git repository
+ExperimentDir = "" #Parent folder to experiments
 
-ExperimentName = "2020_10_drop_point"
+ExperimentName = "Tests"
 DataFile= "fieldData.txt"  #when not doing synthetic data validation, this should be set to "fieldData.txt"
 
 Diagnostic_plots = FALSE
@@ -21,7 +21,7 @@ Continue_optimization=FALSE
 T_Process = FALSE #Set to true to implemnt Student t process: Student-t processes generalize GPs, keeping most of their benefits at almost no extra cost,offering an improved robustness to outliers and larger tail noise. Several choices exist in theliterature; see, for example, the work ofWang, Shi, and Lee(2017). [Binois 2016]
 
 
-drop_point =TRUE #to drop contentious point from objective 7
+drop_point =FALSE #to drop contentious point from objective 7
 ############################################################
 #
 # Load Packages
