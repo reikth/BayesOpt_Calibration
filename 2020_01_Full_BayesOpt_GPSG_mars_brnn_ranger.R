@@ -1,10 +1,10 @@
-u = "reiker" #Scicore user name
-GitDir = "/scicore/home/smith/reiker/GitRepos/om_fitting/" # Local version of the Git repository
-ExperimentDir = "/scicore/home/smith/reiker/Paper_3_Model_Fitting/" #Parent folder to experiments
+u = "" #HPC cluster user name
+GitDir = "" # Local version of the Git repository
+ExperimentDir = "" #Parent folder to experiments
 
-ExperimentName = "2020_07_GPSG_synth_data_validation" #Name of this Experiment  (folder name)
+ExperimentName = "test" #Name of this Experiment  (folder name)
 hetgpName = NA #If using initialisation from hetGP
-DataFile= "simulatedFieldData_2020_05_full_fit_small_GPSG_norm_samplingmain_0010.txt" #when not doing synthetic data validation, this should be set to "fieldData.txt"
+DataFile= "fieldData.txt" #when not doing synthetic data validation, this should be set to "fieldData.txt"
 
 # Fitting Options
 Diagnostic_plots = FALSE
