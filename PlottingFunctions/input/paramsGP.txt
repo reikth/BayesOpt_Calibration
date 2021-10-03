@@ -1,0 +1,32 @@
+      <parameter include="false" name="'-ln(1-Sinf)'" number="1" value="0.050736"/>
+      <parameter include="false" name="Estar" number="2" value="0.03247"/>
+      <parameter include="true" name="Simm" number="3" value="0.195514713481575"/>
+      <parameter include="true" name="Xstar_p" number="4" value="1954.82676432923"/>
+      <parameter include="true" name="gamma_p" number="5" value="1.291437652876"/>
+      <parameter include="true" name="sigma2i" number="6" value="11.7292978098658"/>
+      <parameter include="true" name="CumulativeYstar" number="7" value="5936606898.49191"/>
+      <parameter include="true" name="CumulativeHstar" number="8" value="54.0818414445495"/>
+      <parameter include="true" name="'-ln(1-alpha_m)'" number="9" value="1.77044728317473"/>
+      <parameter include="true" name="decay_m" number="10" value="1.27853932232638"/>
+      <parameter include="true" name="sigma2_0" number="11" value="5.83836048615424"/>
+      <parameter include="true" name="Xstar_v" number="12" value="3.95916835885817"/>
+      <parameter include="true" name="Ystar2" number="13" value="6560.08275976283"/>
+      <parameter include="true" name="alpha" number="14" value="63220.5276179486"/>
+      <parameter include="true" name="Density bias (non Garki)" number="15" value="0.123332178325195"/>
+      <parameter include="true" name="        sigma2        " number="16" value="1"/>
+      <parameter include="true" name="log oddsr CF community" number="17" value="0.339720899365429"/>
+      <parameter include="true" name="Indirect risk cofactor" number="18" value="0.0188813181503897"/>
+      <parameter include="true" name="Non-malaria infant mortality" number="19" value="46.5090909595715"/>
+      <parameter include="true" name="Density bias (Garki)" number="20" value="3.73934772401881"/>
+      <parameter include="true" name="Severe Malaria Threshhold" number="21" value="849045.691701177"/>
+      <parameter include="true" name="Immunity Penalty" number="22" value="1"/>
+      <parameter include="false" name="Immune effector decay" number="23" value="0"/>
+      <parameter include="true" name="comorbidity intercept" number="24" value="0.0775105739721346"/>
+      <parameter include="true" name="Ystar half life" number="25" value="0.46811404079346"/>
+      <parameter include="true" name="Ystar1" number="26" value="1.66502775781594"/>
+      <parameter include="false" name="Asexual immunity decay" number="27" value="0"/>
+      <parameter include="true" name="Ystar0" number="28" value="90.9375296608275"/>
+      <parameter include="true" name="Idete multiplier" number="29" value="2.799"/>
+      <parameter include="true" name="critical age for comorbidity" number="30" value="0.138120553990225"/>
+  </model>
+</om:scenario>
